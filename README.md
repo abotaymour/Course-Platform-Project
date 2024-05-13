@@ -1,6 +1,6 @@
 # Course-Platform-Project
 Learning website platform 
-Project Name: [Your Online Courses Platform Name]
+Project Name: 
 
 Description:
 
