@@ -1,6 +1,6 @@
 # Course-Platform-Project
 Learning website platform 
-Project Name: 
+Project Name: 360 Learning 
 
 Description:
 
